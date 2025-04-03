@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/02-Extend-Thread-Class/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-Implement-Runnable-Interface/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-Implement-Runnable-Interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-Lambda-Expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-Lambda-Expression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-Join-IsAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-Join-IsAlive/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
