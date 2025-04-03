@@ -13,6 +13,10 @@
     <file url="file://$PROJECT_DIR$/05-Join-IsAlive/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-Thread-Priority/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-Thread-Priority/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-Synchronized-Keyword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-Synchronized-Keyword/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-Inter-Thread-Commiunication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-Inter-Thread-Commiunication/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

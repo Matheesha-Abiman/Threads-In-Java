@@ -15,7 +15,9 @@ public class Main {
             }
         });
         t1.start();
+        t1.setPriority(Thread.MAX_PRIORITY);
         t2.start();
+        t2.setPriority(Thread.NORM_PRIORITY);
         System.out.println("t1 priority: " + t1.getPriority());
         System.out.println("t2 priority: " + t2.getPriority());
     }
