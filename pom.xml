@@ -17,6 +17,7 @@
         <module>06-Thread-Priority</module>
         <module>07-Synchronized-Keyword</module>
         <module>08-Inter-Thread-Commiunication</module>
+        <module>09-Thread-Pool</module>
     </modules>
 
     <properties>
